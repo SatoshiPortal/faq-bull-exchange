@@ -1,5 +1,6 @@
 ---
 description: Table of contents
+hidden: true
 ---
 
 # Bull Bitcoin International

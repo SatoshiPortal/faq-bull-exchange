@@ -3,13 +3,13 @@
 ## Bull Bitcoin international
 
 * [Bull Bitcoin Exchange](README.md)
-* [Eligibility](bull-bitcoin-international/eligibility.md)
 * [Bull Bitcoin International](bull-bitcoin-international/bull-bitcoin-international.md)
 
 ## Identity Verification
 
 ## EN
 
+* [Eligibility](en/eligibility.md)
 * [Our Services](en/our-services.md)
 * [How to get started ?](en/how-to-get-started/README.md)
   * [How to create an account ?](en/how-to-get-started/how-to-create-an-account/README.md)
@@ -100,6 +100,7 @@
 
 ## FR
 
+* [Éligibilité](fr/eligibilite.md)
 * [Nos Services](fr/nos-services.md)
 * [Comment démarrer ?](fr/comment-demarrer/README.md)
   * [How to create an account ?](fr/comment-demarrer/how-to-create-an-account/README.md)
@@ -190,6 +191,7 @@
 
 ## ES
 
+* [Eligibilidad](es/eligibilidad.md)
 * [Nuestros Servicios](es/nuestros-servicios.md)
 * [¿Cómo empezar?](es/como-empezar/README.md)
   * [How to create an account ?](es/como-empezar/how-to-create-an-account/README.md)
