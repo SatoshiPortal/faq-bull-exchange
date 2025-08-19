@@ -18,4 +18,4 @@ We strongly encourage all users to store their bitcoins in a personal wallet rat
 6. Nobody can censor you if you self-custody.
 7. Self-custody empowers you and makes you a sovereign individual.
 
-Read the full “Top 7 Reasons to Self-Custody” article on the Bull Bitcoin blog
+[Read the full “Top 7 Reasons to Self-Custody” article on the Bull Bitcoin blog](https://www.bullbitcoin.com/blog/top-7-reasons-to-self-custody)
