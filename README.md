@@ -19,8 +19,11 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 - [Terms and conditions](./terms-and-conditions.md)
 - [Privacy policy](.privacy-policy.md)
 
+## Funding methods
+- [How to fund my with CAD?](./jurisdiction-specific/how-to-fund-my-balance-cad.md)
+- [How to fund my with EUR?](./jurisdiction-specific/how-to-fund-my-balance-eur.md)
+- [How to fund my with MXN?](./jurisdiction-specific/how-to-fund-my-balance-mxn.md)
 
 ## Jurisdiction-Specific Content
-- [How to fund my balance?](./jurisdiction-specific/how-to-fund-my-balance.md)
 - [How to add beneficiaries?](./jurisdiction-specific/how-to-add-beneficiaries.md)
 - [What are the limits?](./jurisdiction-specific/what-are-the-limits.md)
