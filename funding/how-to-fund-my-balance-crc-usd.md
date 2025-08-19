@@ -9,7 +9,7 @@ Choose **Costa Rica** as your country of funding.
 ## Step 3: Choose Your Funding Method
 For Costa Rica, there are three main options depending on your currency and preference:
 
-- **SINPE Móvil Transfer (Colones):** Use Costa Rica’s SINPE Móvil system to transfer CRC from your bank account. Transfers are generally fast and reliable, often settling within minutes to a few hours.  
+- **SINPE Móvil Transfer (Colones):** Use Costa Rica’s SINPE Móvil system to transfer CRC from your bank account. Transfers are instant and reliable, often settling within minutes.  
   *Note: You only need to be SINPE_VERIFIED, which requires an email and a phone number registered with SINPE Móvil.*
 
 - **CRC IBAN Transfer:** Send Costa Rican colones using your CRC IBAN account. This IBAN is specific to Costa Rica and is not the same as a European SEPA IBAN.
