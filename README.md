@@ -23,7 +23,3 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 - [How to fund my with CAD?](./funding/how-to-fund-my-balance-cad.md)
 - [How to fund my with EUR?](./funding/how-to-fund-my-balance-eur.md)
 - [How to fund my with MXN?](./funding/how-to-fund-my-balance-mxn.md)
-
-## Jurisdiction-Specific Content
-- [How to add beneficiaries?](./jurisdiction-specific/how-to-add-beneficiaries.md)
-- [What are the limits?](./jurisdiction-specific/what-are-the-limits.md)
