@@ -4,7 +4,7 @@
 
 Bull Bitcoin is an automated OTC desk — there is no order book, and we do not match buyers with sellers. When you sell Bitcoin on Bull Bitcoin, your Bitcoin is sent directly to us and instantly converted into fiat. Bull Bitcoin is non-custodial, which means there is no Bitcoin balance in your account — the Bitcoin is never held by Bull Bitcoin.
 
-Watch our step-by-step tutorial: How to sell Bitcoin on Bull Bitcoin
+Watch our step-by-step tutorial: [How to sell Bitcoin on Bull Bitcoin](https://youtu.be/la0WnXwyI8c)
 
 ### Overview
 
