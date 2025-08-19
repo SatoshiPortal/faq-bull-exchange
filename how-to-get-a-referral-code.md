@@ -1,6 +1,6 @@
 # How to get a referral code ?
 
-## THE MISSION is more than a referral program
+**[THE MISSION](https://www.bullbitcoin.com/mission) is more than a referral program**
 It’s a community of hardcore Bitcoiners on a crusade to establish the Bitcoin Standard and end fiat central banking. As a Missionary, you get paid to spread Bitcoin and self-custody while building a network of committed operators.
 
 ## Onboard
@@ -28,10 +28,10 @@ It’s a community of hardcore Bitcoiners on a crusade to establish the Bitcoin 
 - Self-Sovereign Mentality – Lead by example with non-custodial wallets, privacy tools, and decentralized communications.
 
 ## How to become a Bull Bitcoin Missionary
-### 1. Click Join The Mission and complete the application with your Bull Bitcoin User ID.
-### 2. Don’t have an account? Create one [here](https://bullbitcoin.com).
-### 3. Applications are highly selective — only the most committed will be accepted.
-### 4. Once approved, you receive your unique referral link and start your mission.
+1. Click Join [The Mission](https://www.bullbitcoin.com/mission) and complete the application with your Bull Bitcoin User ID.
+2. Don’t have an account? Create one [here](https://accounts.bullbitcoin.com/registration).
+3. Applications are highly selective — only the most committed will be accepted.
+4. Once approved, you receive your unique referral link and start your mission.
 
 ## TL;DR
 
