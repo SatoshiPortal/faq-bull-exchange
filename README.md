@@ -12,10 +12,10 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 - [How to buy bitcoin?](./how-to-buy-bitcoin.md)
 - [How to sell bitcoin?](./how-to-sell-bitcoin.md)
 - [How to send FIAT payments?](./how-to-send-fiat-payments.md)
-- [How to get a receipt for my order?](./how-to-get-a-receipt-for-my-order.md)
-- [How to export my transaction history?](./how-to-export-my-transaction-history.md)
+- [How to get a receipt for an order?](./how-to-get-a-receipt-for-my-order.md)
+- [How to export the transaction history?](./how-to-export-my-transaction-history.md)
 - [What are Bull Bitcoin’s rates?](./what-are-bull-bitcoins-rates.md)
-- [How to contact us?](./how-to-contact-us.md)
+- [How to contact Bull Bitcoin?](./how-to-contact-us.md)
 - [Terms and conditions](./terms-and-conditions.md)
 - [Privacy policy](.privacy-policy.md)
 
