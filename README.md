@@ -1,6 +1,4 @@
-# Bull Bitcoin FAQ Repository
-
-This repository organizes the FAQ content from the Bull Bitcoin document into structured Markdown files. The content is divided into two main categories: General information and Jurisdiction-Specific (placeholders for region-specific details).
+# Bull Bitcoin FAQ
 
 ## General information
 - [What is Bull Bitcoin International?](./what-is-bull-bitcoin-international.md)
