@@ -3,7 +3,12 @@
 ## General information
 - [What is Bull Bitcoin International?](./what-is-bull-bitcoin-international.md)
 - [What are Bull Bitcoin’s Services?](./what-are-bull-bitcoins-services.md)
-- [What is a non-custodial Bitcoin Exchange?](./what-is-a-non-custodial-bitcoin-exchange.md)
+<details>
+<summary>[What is a non-custodial Bitcoin Exchange?](./what-is-a-non-custodial-bitcoin-exchange.md)</summary>
+- [Why self-custody ?](./what-is-a-non-custodial-bitcoin-exchange.md#self-custody-your-bitcoin-your-control)
+- [Top 7 Reasons to Self-Custody](./what-is-a-non-custodial-bitcoin-exchange.md#top-7-reasons-to-self-custody)
+</details>
+
 - [Who can use Bull Bitcoin?](./who-can-use-bull-bitcoin.md)
 - [How to create an account?](./how-to-create-an-account.md)
 - [How to get verified?](./jurisdiction-specific/how-to-get-verified.md)
