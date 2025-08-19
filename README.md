@@ -10,6 +10,7 @@
 - [How to buy bitcoin?](./how-to-buy-bitcoin.md)
 - [How to sell bitcoin?](./how-to-sell-bitcoin.md)
 - [How to send FIAT payments?](./how-to-send-fiat-payments.md)
+- [How to buy real estate with Bitcoin?](./how-to-buy-real-estate-with-bitcoin.md)
 - [How to get a receipt for an order?](./how-to-get-a-receipt-for-an-order.md)
 - [How to export the transaction history?](./how-to-export-the-transaction-history.md)
 - [What are Bull Bitcoin’s rates?](./what-are-bull-bitcoins-rates.md)
