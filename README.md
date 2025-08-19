@@ -21,10 +21,8 @@
 - [Privacy policy](.privacy-policy.md)
 
 ## Funding methods
-- [How to fund my with Canadian Dollar (CAD) ?](./funding/how-to-fund-my-balance-cad.md)
-- [How to fund my with Euro (EUR) ?](./funding/how-to-fund-my-balance-eur.md)
-- [How to fund my with Mexican Peso (MXN) ?](./funding/how-to-fund-my-balance-mxn.md)
-- [How to fund my with Argentine Peso (ARS) ?](./funding/how-to-fund-my-balance-mxn.md)
-- [How to fund my with Costa Rican Colones (CRC) ?](./funding/how-to-fund-my-balance-mxn.md)
-- [How to fund my with U.S. Dollar (from Costa-Rica) ?](./funding/how-to-fund-my-balance-mxn.md)
-
+- [How to fund my balance with Canadian Dollar (CAD) ?](./funding/how-to-fund-my-balance-cad.md)
+- [How to fund my balance with Euro (EUR) ?](./funding/how-to-fund-my-balance-eur.md)
+- [How to fund my balance with Mexican Peso (MXN) ?](./funding/how-to-fund-my-balance-mxn.md)
+- [How to fund my balance with Argentine Peso (ARS) ?](./funding/how-to-fund-my-balance-ars.md)
+- [How to fund my with balance in Costa-Rica (CRC & USD) ?](./funding/how-to-fund-my-balance-crc-usd.md)
