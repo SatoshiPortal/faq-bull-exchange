@@ -54,7 +54,7 @@ Once confirmed, your Bitcoin will be sent directly to your wallet.
 
 ## Advanced methods
 
-In addition to the basic method of buying Bitcoin, Bull Bitcoin offers advanced tools that let you automate purchases and stack sats without constantly logging in. These methods are ideal for anyone looking for a hands-off, consistent approach to Bitcoin accumulation.
+In addition to the basic method of buying Bitcoin, Bull Bitcoin offers advanced tools that let you automate Bitcoin purchases and stack sats without constantly logging in. These methods are ideal for anyone looking for a hands-off, consistent approach to Bitcoin accumulation.
 
 ### Dollar Cost Averaging (DCA)
 
@@ -75,7 +75,7 @@ Bull Bitcoin’s DCA (Dollar Cost Averaging) feature allows you to automatically
 
 ⚠️ Make sure your account balance covers your DCA amount, or purchases will be skipped and retried at the next scheduled interval.
 
-Watch the DCA Tutorial Video | Read the full DCA blog post
+[Watch the DCA Tutorial Video](https://youtu.be/_A23JI492Zc) | [Read the full DCA blog post](https://www.bullbitcoin.com/blog/bull-bitcoins-dca-is-now-live)
 
 ### Autobuy
 
@@ -98,4 +98,4 @@ Autobuy is designed for users who want instant, automated Bitcoin purchases ever
 
 ⚠️ Important: Autobuy overrides manual funding. If enabled, fiat deposits will always be converted to Bitcoin automatically. Disable it temporarily if you want to fund your account manually.
 
-Watch the Autobuy Tutorial Video | Read the full Autobuy blog post
+[Watch the Autobuy Tutorial Video](https://youtu.be/_A23JI492Zc) | [Read the full Autobuy blog post](https://www.bullbitcoin.com/blog/autobuy)
