@@ -17,8 +17,6 @@
 - [What are the limits on Bull Bitcoin ?](./what-are-the-limits.md)
 - [How to contact Bull Bitcoin ?](./how-to-contact-us.md)
 - [How to get a referral code ?](./how-to-get-a-referral-code.md)
-- [Terms and conditions](./terms-and-conditions.md)
-- [Privacy policy](.privacy-policy.md)
 
 ## Funding methods
 - [How to fund my balance with Canadian Dollar (CAD) ?](./funding/how-to-fund-my-balance-cad.md)
