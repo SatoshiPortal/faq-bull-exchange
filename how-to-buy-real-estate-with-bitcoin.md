@@ -1,4 +1,4 @@
-# Can I buy real estate with Bitcoin ?
+# How to buy real estate with Bitcoin ?
 
 You can use Bitcoin to buy real estate, even if the seller only accepts fiat currency. Bull Bitcoin allows you to sell your Bitcoin and have the proceeds sent directly to the necessary recipient—like a notary, lawyer, or escrow account—so the transaction meets legal and regulatory requirements.
 
