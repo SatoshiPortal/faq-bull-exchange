@@ -10,7 +10,7 @@ You can also reach customer support by email at: support@bullbitcoin.com
 
 ## Business Enquiries
 
-For business-related questions or corporate partnerships, contact us at: 📧 business@bullbitcoin.com
+For business-related questions or corporate partnerships, contact us at: business@bullbitcoin.com
 
 ## Bull Bitcoin Prime
 
