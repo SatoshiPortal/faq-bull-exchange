@@ -15,6 +15,7 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 - [How to get a receipt for an order?](./how-to-get-a-receipt-for-an-order.md)
 - [How to export the transaction history?](./how-to-export-the-transaction-history.md)
 - [What are Bull Bitcoin’s rates?](./what-are-bull-bitcoins-rates.md)
+- [What are the limits on Bull Bitcoin?](./what-are-the-limits.md)
 - [How to contact Bull Bitcoin?](./how-to-contact-us.md)
 - [Terms and conditions](./terms-and-conditions.md)
 - [Privacy policy](.privacy-policy.md)
