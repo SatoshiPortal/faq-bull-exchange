@@ -5,7 +5,7 @@ Bull Bitcoin provides a simple way to access a digital or printable receipt for 
 ## Step 1: Access Your Order
 
 - From your dashboard, click on a recent order.
-- Or visit your full transaction history and select any order.
+- Or visit [your full transaction history](https://app.bullbitcoin.com/txs) and select any order.
 
 ## Step 2: View Your Receipt
 
