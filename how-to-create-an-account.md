@@ -14,7 +14,7 @@ Watch our step-by-step tutorial: [How to create a Bull Bitcoin account](https://
 4. (Optional) Enter a referral code
 5. Select whether you are registering as an individual or a business
 
-Ready to create your account? Sign up here
+Ready to create your account? [Sign up here](https://accounts.bullbitcoin.com/en/registration)
 
 Once completed, you will be able to access your account dashboard and begin using Bull Bitcoin.
 
@@ -49,4 +49,4 @@ When you switch to a Business Account, you gain:
 
 Because corporate accounts require additional due diligence, onboarding may take slightly longer — usually no more than one or two business days. To complete the process, you will need to provide standard business documentation.
 
-Start your business account verification and sign up here: Sign up for a Business Account
+Start your business account verification and sign up here: [Sign up for a Business Account](https://accounts.bullbitcoin.com/en/registration)
