@@ -4,7 +4,7 @@
 
 Creating a Bull Bitcoin account is quick and straightforward. Whether you are an individual or a business, you can open an account and start using our Bitcoin services in just a few steps.
 
-Watch our step-by-step tutorial: How to create a Bull Bitcoin account
+Watch our step-by-step tutorial: [How to create a Bull Bitcoin account](https://youtu.be/QtbXn3bn-a0)
 
 ## How to Sign Up ?
 
