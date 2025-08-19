@@ -24,6 +24,8 @@ Bitcoin on your balance sheet ? We’ve got you covered.
 
 In addition to a personal account, you may also create a separate business account with Bull Bitcoin. Many of our clients maintain both, and that is perfectly acceptable.
 
+Watch our step-by-step tutorial: [How to create a Bull Bitcoin account](https://youtu.be/QtbXn3bn-a0)
+
 ### Why Choose a Business Account ?
 
 A Business Account allows you to:
@@ -44,3 +46,6 @@ When you switch to a Business Account, you gain:
 - Enhanced security features
 - Detailed financial reporting
 - Multi-user management capabilities
+
+Ready to create your business account ? [Sign up here](https://accounts.bullbitcoin.com/en/registration)
+
