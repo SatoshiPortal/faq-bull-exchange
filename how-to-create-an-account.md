@@ -44,9 +44,3 @@ When you switch to a Business Account, you gain:
 - Enhanced security features
 - Detailed financial reporting
 - Multi-user management capabilities
-
-## Business Account Verification
-
-Because corporate accounts require additional due diligence, onboarding may take slightly longer — usually no more than one or two business days. To complete the process, you will need to provide standard business documentation.
-
-Start your business account verification and sign up here: [Sign up for a Business Account](https://accounts.bullbitcoin.com/en/registration)
