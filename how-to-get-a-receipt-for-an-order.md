@@ -1,4 +1,4 @@
-# How to get a receipt for my order ?
+# How to get a receipt for an order ?
 
 Bull Bitcoin provides a simple way to access a digital or printable receipt for any of your orders.
 
