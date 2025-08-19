@@ -15,12 +15,12 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 - [How to export my transaction history?](./how-to-export-my-transaction-history.md)
 - [What are Bull Bitcoin’s rates?](./what-are-bull-bitcoins-rates.md)
 - [How to contact us?](./how-to-contact-us.md)
+- [Terms and conditions](./terms-and-conditions.md)
+- [Privacy policy](.privacy-policy.md)
+
 
 ## Jurisdiction-Specific Content
 - [How to get verified?](./jurisdiction-specific/how-to-get-verified.md)
 - [How to fund my balance?](./jurisdiction-specific/how-to-fund-my-balance.md)
 - [How to add beneficiaries?](./jurisdiction-specific/how-to-add-beneficiaries.md)
 - [What are the limits?](./jurisdiction-specific/what-are-the-limits.md)
-- [Legal entities](./jurisdiction-specific/legal-entities.md)
-- [Terms and conditions](./jurisdiction-specific/terms-and-conditions.md)
-- [Privacy policy](./jurisdiction-specific/privacy-policy.md)
