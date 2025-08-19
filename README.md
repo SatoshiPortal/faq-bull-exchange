@@ -1,53 +1,26 @@
----
-cover: .gitbook/assets/logo white bull + horizontal text_f5f5f5.png
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
+# Bull Bitcoin FAQ Repository
 
-# Bull Bitcoin Exchange
+This repository organizes the FAQ content from the Bull Bitcoin document into structured Markdown files. The content is divided into two main categories: General information and Jurisdiction-Specific (placeholders for region-specific details).
 
-### Welcome to the Bull Bitcoin Exchange knowledge center!
+## General information
+- [What is Bull Bitcoin International?](./what-is-bull-bitcoin-international.md)
+- [What are Bull Bitcoin’s Services?](./what-are-bull-bitcoins-services.md)
+- [What is a non-custodial Bitcoin Exchange?](./what-is-a-non-custodial-bitcoin-exchange.md)
+- [Who can use Bull Bitcoin?](./who-can-use-bull-bitcoin.md)
+- [How to create an account?](./how-to-create-an-account.md)
+- [How to buy bitcoin?](./how-to-buy-bitcoin.md)
+- [How to sell bitcoin?](./how-to-sell-bitcoin.md)
+- [How to send FIAT payments?](./how-to-send-fiat-payments.md)
+- [How to get a receipt for my order?](./how-to-get-a-receipt-for-my-order.md)
+- [How to export my transaction history?](./how-to-export-my-transaction-history.md)
+- [What are Bull Bitcoin’s rates?](./what-are-bull-bitcoins-rates.md)
+- [How to contact us?](./how-to-contact-us.md)
+- [Terms and conditions](./terms-and-conditions.md)
+- [Privacy policy](.privacy-policy.md)
 
-This website contains all the information about using Bull Bitcoin's exchange and payments services.\
-If you want to have more information about the Bull Bitcoin Wallet, visit the [Bull Bitcoin Wallet knowledge Center.](https://app.gitbook.com/o/ZusqoU4usOW4a9t3Oekf/s/C4MKk9E0bDIv6fLwl2en/)
 
-<p align="center"><a href="en/eligibility.md" class="button primary">Continue in English</a></p>
-
-***
-
-### Bienvenue au hub d'information de Bull Bitcoin Exchange !"
-
-Ce site web contient toutes les informations sur l'utilisation des services d'échange et de paiements de Bull Bitcoin. Si vous souhaitez en savoir plus sur le Bull Bitcoin Wallet, visitez le guide pratique du Bull Bitcoin Wallet.
-
-<p align="center"><a href="fr/eligibilite.md" class="button primary">Continuez en Français</a></p>
-
-***
-
-### ¡Bienvenido al centro de información de Bull Bitcoin Exchange!
-
-Este sitio web contiene toda la información sobre el uso de los servicios de intercambio y pagos de Bull Bitcoin. Si deseas obtener más información sobre la Bull Bitcoin Wallet, visita la guía práctica de Bull Bitcoin Wallet.
-
-<p align="center"><a href="es/eligibilidad.md" class="button primary">Continúe en Español</a></p>
-
-***
-
-<p align="center"><strong>Select your language / Choisissez votre langue / Seleccione su idioma :</strong></p>
-
-<table data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><a href="en/eligibility.md"><strong>English</strong></a></td></tr><tr><td align="center"><a href="fr/eligibilite.md"><strong>Français</strong></a></td></tr><tr><td align="center"><a href="es/eligibilidad.md"><strong>Español</strong></a></td></tr></tbody></table>
-
+## Jurisdiction-Specific Content
+- [How to get verified?](./jurisdiction-specific/how-to-get-verified.md)
+- [How to fund my balance?](./jurisdiction-specific/how-to-fund-my-balance.md)
+- [How to add beneficiaries?](./jurisdiction-specific/how-to-add-beneficiaries.md)
+- [What are the limits?](./jurisdiction-specific/what-are-the-limits.md)

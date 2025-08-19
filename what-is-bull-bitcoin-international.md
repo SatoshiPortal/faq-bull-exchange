@@ -1,0 +1,5 @@
+# What is Bull Bitcoin International ?
+
+Bull Bitcoin, founded by Francis Pouliot in Canada in 2013, is the world’s longest-running Bitcoin-only exchange. Renowned for its technological expertise, unwavering Bitcoin-maximalist philosophy, commitment to the cypherpunk ethos, and operational excellence, Bull Bitcoin has earned a reputation as one of the most trusted and iconic brands in the Bitcoin-only ecosystem. Users consistently praise its exceptional customer support. Initially operating exclusively in Canada, the company expanded globally, entering Costa Rica in 2022, Europe in 2024, and Mexico in 2025.
+
+Bull Bitcoin’s slogans, “Engineering Sovereignty” and “Own Your Money,” encapsulate its mission: to empower individuals worldwide with technical tools to reclaim financial sovereignty and hasten the decline of the fiat monetary system, which has undermined human civilization for over a century. Self-funded since its inception, Bull Bitcoin has never raised capital or taken loans, ensuring its independence and alignment with its core values.

@@ -1,2 +1,0 @@
-# 🇨🇷 SINPE Movil
-

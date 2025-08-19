@@ -1,2 +1,0 @@
-# 🇨🇷 Beneficiaries in Costa Rica
-

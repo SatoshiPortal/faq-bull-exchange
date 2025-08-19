@@ -1,2 +1,0 @@
-# Receiving Lightning payments
-
