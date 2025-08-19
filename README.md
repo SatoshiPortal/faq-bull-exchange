@@ -17,6 +17,7 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 - [What are Bull Bitcoin’s rates?](./what-are-bull-bitcoins-rates.md)
 - [What are the limits on Bull Bitcoin?](./what-are-the-limits.md)
 - [How to contact Bull Bitcoin?](./how-to-contact-us.md)
+- [How to get a referral code?](./how-to-get-a-referral-code.md)
 - [Terms and conditions](./terms-and-conditions.md)
 - [Privacy policy](.privacy-policy.md)
 
