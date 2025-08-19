@@ -1,2 +1,0 @@
-# Buy with SINPE Movil
-
