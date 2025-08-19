@@ -8,6 +8,7 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 - [What is a non-custodial Bitcoin Exchange?](./what-is-a-non-custodial-bitcoin-exchange.md)
 - [Who can use Bull Bitcoin?](./who-can-use-bull-bitcoin.md)
 - [How to create an account?](./how-to-create-an-account.md)
+- [How to get verified?](./jurisdiction-specific/how-to-get-verified.md)
 - [How to buy bitcoin?](./how-to-buy-bitcoin.md)
 - [How to sell bitcoin?](./how-to-sell-bitcoin.md)
 - [How to send FIAT payments?](./how-to-send-fiat-payments.md)
@@ -20,7 +21,6 @@ This repository organizes the FAQ content from the Bull Bitcoin document into st
 
 
 ## Jurisdiction-Specific Content
-- [How to get verified?](./jurisdiction-specific/how-to-get-verified.md)
 - [How to fund my balance?](./jurisdiction-specific/how-to-fund-my-balance.md)
 - [How to add beneficiaries?](./jurisdiction-specific/how-to-add-beneficiaries.md)
 - [What are the limits?](./jurisdiction-specific/what-are-the-limits.md)
