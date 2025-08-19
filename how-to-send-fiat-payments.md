@@ -4,7 +4,7 @@
 
 When you use the “Pay with Bitcoin” service, you are essentially selling Bitcoin to Bull Bitcoin in exchange for fiat. The difference is that the money is sent to someone else instead of your Bull Bitcoin account or bank account.
 
-Watch our step-by-step tutorial: How to sell Bitcoin on Bull Bitcoin
+Watch our step-by-step tutorial: [How to sell Bitcoin on Bull Bitcoin](https://youtu.be/la0WnXwyI8c)
 
 ## Who can I send fiat payment to ?
 
