@@ -1,2 +1,0 @@
-# ¿Cómo vender Bitcoin?
-

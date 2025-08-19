@@ -1,2 +1,0 @@
-# 🇲🇽 SPEI Bank Account
-
