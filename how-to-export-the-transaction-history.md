@@ -1,4 +1,4 @@
-# How to export my transaction history ?
+# How to export the transaction history ?
 
 From your Bull Bitcoin dashboard, you can view your recent transaction history. To access your full transaction history, click on “View All” or go directly to https://app.bullbitcoin.com/txs.
 
